@@ -1,0 +1,12 @@
+#about-widget .bg-choose{
+    background: lightblue url("../../../assets/images/about-widget.jpg") no-repeat center;
+    background-size: cover;
+}
+.about-counter span{
+    font-size: 22px;
+    font-weight: 400;
+}
+.counter-widget{
+    border-bottom: 3px solid #fdc800;
+    line-height: 1;;
+}

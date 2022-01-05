@@ -1,0 +1,13 @@
+.footer ul li a, .footer h4{
+    color: white;
+}
+.footer i.fa{
+    padding: 2px;
+    margin-right: 10px;
+    color: #ffc107;
+}
+/* .footer li a:hover {
+    background-color: #fdc800;
+    border-color: #fdc800;
+    color: #002147;
+} */

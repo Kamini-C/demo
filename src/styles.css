@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+div p{
+    font-size: 20px;
+}
+.bg-blue{
+    background-color: #002147;
+}
+.bg-darkBlue{
+    background-color: #001a39;
+}
+.text-blue{
+    color: #002147;
+}
+.rounded-icon{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.rounded-icon i{
+    background-color: #eeeeee;
+    color: #002147;
+    font-size: 36px;
+    padding: 25px 28px;
+    border-radius: 50%;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}

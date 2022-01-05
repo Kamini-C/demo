@@ -1,0 +1,17 @@
+.round-dotted-border{
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    /* box-shadow: 1px 1px 20px grey; */
+    outline: 3px dashed #fff;
+    outline-offset: -3px;
+}
+.icon-white{
+    text-align: center;
+}
+.icon-white i{
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 25px;
+    border: 3px solid white;
+    border-radius: 50%;
+}
